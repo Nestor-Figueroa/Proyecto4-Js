@@ -11,7 +11,9 @@ class Display{
             sumar : '+',
             dividir : '/',
             multiplicar: 'X',
-            restar : '-'
+            restar : '-',
+            potencia: '^',
+            raiz: '√'
         }
     }
     //Metodos
